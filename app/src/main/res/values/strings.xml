@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoDownloader</string>
+    <string name="downloadBtnName">全部下载</string>
+</resources>

@@ -1,4 +1,38 @@
 
+====CZH====	关键字
+
+@#
+CardView ???
+
+@#
+android:layout_weight 这个值影响什么??
+android:layout_height="0px"	设为0有什么意义??
+
+@#
+FragmentTransaction
+
+@#
+inflate 方法???
+
+@#
+动画相关???
+ViewAnimator
+Base class for a FrameLayout container that will perform animations when switching between its views.
+FrameLayout容器的基类，当在其视图之间切换时将执行动画。
+
+@#
+Bundle getSerializable
+
+@#
+AndroidX
+参考: https://developer.android.google.cn/jetpack/androidx
+迁移到androidX: 查阅 支持库工件映射+支持库类映射
+
+@#
+Jetpack
+
+~~~~~~~~~
+
 @#
 不能import另一个模块的类???
 在 app 的 build.gredle 文件中的 dependencies 项添加
@@ -39,3 +73,27 @@ Context 这是个什么东西
 这就导致了内存泄漏.
 
 @#
+Android 列表控件怎么用?? 搞个demo出来
+可以参考官方示例: https://github.com/googlearchive/android-RecyclerView#readme
+
+@#
+得总结下项目配置这些东西
+从GitHub拉下来的源码要怎样跑起来???
+
+@#
+官方支持包
+com.android.support:support-v4:24.2.1
+参考: https://www.jianshu.com/p/f5f9a4fd22e8
+
+@#		版本问题
+Gradle版本
+SDK版本
+API版本
+Android版本
+
+SDK版本, API等级 一一对应关系, 查阅: https://developer.android.google.cn/guide/topics/manifest/uses-sdk-element#ApiLevels
+
+@#
+Fragment生命周期
+参考: https://blog.csdn.net/manoel/article/details/7577353
+

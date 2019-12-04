@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">DemoDownloader</string>
-    <string name="downloadBtnName">全部下载</string>
+    <string name="download_all_btn">全部下载</string>
+    <string name="downloader_item_btn">下载</string>
+    <string name="introduce_message">
+        <![CDATA[
+               这里是一些用来填充顶部空间的文字.\n
+               可以写下应用的介绍, 操作流程等等相关的东西.
+        ]]>
+    </string>
+
 </resources>
